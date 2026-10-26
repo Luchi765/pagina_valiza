@@ -549,3 +549,8 @@ section {
         transition-duration: 0.01ms !important;
     }
 }
+.header-container > img {
+    width: 70px;
+    height: auto;
+    object-fit: contain;
+}
